@@ -12908,7 +12908,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2dd84023-cd9e-4a0e-a82a-324cdf822473")
-		(property "Reference" "R333"
+		(property "Reference" "R330"
 			(at 115.57 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12972,7 +12972,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R333")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -13557,7 +13557,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "397da47d-7cf9-4a00-b30f-cd731d395300")
-		(property "Reference" "R338"
+		(property "Reference" "R330"
 			(at 246.38 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13621,7 +13621,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R338")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -18545,7 +18545,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8688cf3f-c43e-4d15-bbd8-c9c53e74ffd5")
-		(property "Reference" "R332"
+		(property "Reference" "R330"
 			(at 90.17 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18609,7 +18609,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R332")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -19114,7 +19114,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8efcbd95-5c69-44ed-88d5-a3a40dff63aa")
-		(property "Reference" "R331"
+		(property "Reference" "R330"
 			(at 64.77 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19178,7 +19178,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R331")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -22691,7 +22691,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c913d966-7828-4f4d-b305-60c4d6e7ca86")
-		(property "Reference" "R336"
+		(property "Reference" "R330"
 			(at 193.04 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22755,7 +22755,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R336")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -22946,7 +22946,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caef48a9-2eb8-46b1-89aa-edf67f80f697")
-		(property "Reference" "R334"
+		(property "Reference" "R330"
 			(at 140.97 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23010,7 +23010,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R334")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -23222,7 +23222,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ccd18e1a-8f5a-41f6-b4a2-0fc04cbd77b7")
-		(property "Reference" "R337"
+		(property "Reference" "R330"
 			(at 219.71 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23286,7 +23286,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R337")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -25364,7 +25364,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee4180ea-1fab-41a9-af63-8c8fe77c4bfd")
-		(property "Reference" "R335"
+		(property "Reference" "R330"
 			(at 166.37 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25428,7 +25428,7 @@
 		(instances
 			(project "Schematic"
 				(path "/91d74357-8ca4-4a58-80c6-cf56241b3e29"
-					(reference "R335")
+					(reference "R330")
 					(unit 1)
 				)
 			)
