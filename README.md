@@ -1,3 +1,4 @@
+
  # 8-Bit ALU Hardware Project
 
 Project Description
@@ -54,6 +55,8 @@ Logical Operations
 - XNOR
 
 The operations listed above should be retained only if they are implemented in the actual circuit.
+
+<img width="2803" height="1174" alt="8BIT_ALU_" src="https://github.com/user-attachments/assets/da4f5e6c-e82d-474f-8e58-ac37200863ff" />
 
 Working Principle
 
